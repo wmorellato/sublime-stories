@@ -1,0 +1,10 @@
+{
+	// stories root folder
+	"stories_root_path": "path\\to\\stories\\",
+	// folder name for revisions
+	"revisions_dir_name": "revisoes",
+	// folder name for originals
+	"original_dir_name": "originais",
+	// author
+	"author": ""
+}

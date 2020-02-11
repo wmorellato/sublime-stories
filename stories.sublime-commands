@@ -1,0 +1,6 @@
+[
+    { "caption": "Stories: Novo conto", "command": "new_story" },
+    { "caption": "Stories: Revisar...", "command": "revise_story" },
+    { "caption": "Stories: Traduzir...", "command": "translate" },
+    { "caption": "Stories: Renomear conto", "command": "rename", "args": { "title": "" } },
+]
